@@ -1,4 +1,4 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaiYanagisawa&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaiYanagisawa&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api?username=KaiYanagisawa&count_private=true&show_icons=true&theme=tokyonight&hide_title=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiYanagisawa&layout=compact&theme=dracula&langs_count=8&hide=asp.net,c)
 
