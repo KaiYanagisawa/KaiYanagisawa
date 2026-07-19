@@ -32,3 +32,13 @@
 ```
 
     
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/KaiYanagisawa/KaiYanagisawa/master/profile-summary-card-output/panda/2-most-commit-language.svg)
+```
+
+    
